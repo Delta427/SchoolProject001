@@ -1,5 +1,5 @@
 # SchoolProject001
-This is just a clone cerated for educational purpose
+This is just a clone created for educational purpose
 
 &@#? you Nintendo
 
